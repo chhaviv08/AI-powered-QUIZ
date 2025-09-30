@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered Quiz",
+  "description": "A dynamic quiz app with smooth animations that uses Google Search to generate up-to-date questions on any topic. Features numbered questions, difficulty levels, answer explanations, a light/dark theme toggle, and a pass/fail condition. The app also provides free learning resources on the results screen to help users improve.",
+  "requestFramePermissions": []
+}
